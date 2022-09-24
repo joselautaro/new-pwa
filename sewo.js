@@ -34,5 +34,4 @@ self.addEventListener('fetch', event =>{
     //             return fetch('media/main.jpg')
     //         }
     // })
-    
 });
